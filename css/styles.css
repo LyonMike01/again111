@@ -1,0 +1,157 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+.p1 {
+    width: 50%;
+    margin: 10px auto 10px auto;
+    text-align: center;
+    line-height: 2;
+}
+img {
+    border-radius: 100%;
+}
+h1 {
+    font-size: 3.75rem;
+    font-family: 'Sacramento', cursive;
+    margin: 50px auto 0 auto;
+    color: darkgreen;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: darkgreen;
+}
+.h21 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    color: gold;
+    font-weight: bolder;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    color: gold;
+}
+
+.foot {
+    text-decoration: underline;
+}
+.Top-container {
+    background-color: #a0d9f1;
+    position: relative;
+    padding-top: 100px;
+    height: 600px;
+} 
+.middle-container {
+ 
+}
+
+.bottom-container {
+background-color: #a0d9f1;
+padding: 40px;
+}
+
+.a1 {
+color: darkgreen;
+font-family: 'Montserrat', sans-serif;
+font-weight: bolder;
+margin: 10px 20px;
+text-decoration: none;
+}
+
+.a1:hover {
+    color: black;
+}
+
+.top-cloud {
+    border-radius: 100%;
+    position: absolute;
+    top: 30px;
+    right: 250px;
+}
+
+.bottom-cloud {
+    border-radius: 100%;
+    position: absolute;
+    top: 260px;
+    left: 280px;
+}
+
+.mount {
+    position: relative;
+    top: 65px;
+    border-radius: 40px;
+}
+
+.skills-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.dream-img {
+    width: 25%;
+    float: right;
+    margin-right: 30px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.m2 {
+   margin-right: 40px;
+}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color:#a0d9f1;
+    border-width: 7px;
+    width: 4%;
+}
+
+.this {
+    margin: 20px auto 40px;
+    }
+
+.btn {
+   background-color: black;
+ width: 160px;
+ height: 40px;
+ border-radius: 10px;
+ margin: 15px auto 50px;
+ border-style: none;
+}
+.btn:hover {
+    background-color: darkgreen;
+    cursor: pointer;
+ }
+
+ .me:hover {
+    color: gold;
+    cursor: pointer;
+ }
+
+.me {
+    margin: 0 auto 0 auto;
+    color: white;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+}
+.copy {
+    color: white;
+    font-size: 1rem;
+    margin-top: 25px;
+    padding: 20px 0;
+}
+.copy:hover {
+    cursor: pointer;
+    color: black;
+}
